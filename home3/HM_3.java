@@ -55,7 +55,7 @@ public class HM_3 {
         else
             return false;
     }
-
+// Выводы в строки по-задачно:
     public static void main(String[] args) {
         // 1 задача
         System.out.println(newColorList());
